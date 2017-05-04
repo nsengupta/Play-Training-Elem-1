@@ -53,8 +53,8 @@ Seq[Any](format.raw/*1.14*/("""
 object count extends count_Scope0.count
               /*
                   -- GENERATED --
-                  DATE: Sat Mar 18 19:27:38 IST 2017
-                  SOURCE: /home/nirmalya/PlayTraining/Java/PlayTrainingLab/my-attendees-app-1/app/views/attendees/count.scala.html
+                  DATE: Tue Mar 21 16:15:58 IST 2017
+                  SOURCE: /home/nirmalya/PlayTraining/Java/my-attendees-app-1/app/views/attendees/count.scala.html
                   HASH: f7912b8ab4ad7bdcd8ad7da4f0adcc4aaab404fb
                   MATRIX: 752->1|859->13|887->16|912->33|951->35|979->37|1013->45|1038->50
                   LINES: 27->1|32->1|34->3|34->3|34->3|35->4|35->4|35->4

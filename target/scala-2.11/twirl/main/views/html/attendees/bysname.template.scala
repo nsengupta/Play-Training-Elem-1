@@ -58,8 +58,8 @@ Seq[Any](format.raw/*1.16*/("""
 object bysname extends bysname_Scope0.bysname
               /*
                   -- GENERATED --
-                  DATE: Sat Mar 18 22:56:41 IST 2017
-                  SOURCE: /home/nirmalya/PlayTraining/Java/PlayTrainingLab/my-attendees-app-1/app/views/attendees/bysname.scala.html
+                  DATE: Tue Mar 21 16:15:58 IST 2017
+                  SOURCE: /home/nirmalya/PlayTraining/Java/my-attendees-app-1/app/views/attendees/bysname.scala.html
                   HASH: 1428e590208a1b3518901b8258b1d17484566ac5
                   MATRIX: 759->1|868->15|896->18|934->48|973->50|1002->53|1045->70|1069->74
                   LINES: 27->1|32->1|34->3|34->3|34->3|36->5|37->6|37->6

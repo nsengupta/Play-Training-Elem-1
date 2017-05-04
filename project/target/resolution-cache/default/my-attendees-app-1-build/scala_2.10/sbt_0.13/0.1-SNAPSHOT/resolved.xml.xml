@@ -4,7 +4,7 @@
 		module="my-attendees-app-1-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170318192342"
+		publication="20170321161513"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

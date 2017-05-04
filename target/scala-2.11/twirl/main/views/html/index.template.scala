@@ -64,8 +64,8 @@ Seq[Any](format.raw/*5.19*/("""
 object index extends index_Scope0.index
               /*
                   -- GENERATED --
-                  DATE: Sat Mar 18 19:27:38 IST 2017
-                  SOURCE: /home/nirmalya/PlayTraining/Java/PlayTrainingLab/my-attendees-app-1/app/views/index.scala.html
+                  DATE: Tue Mar 21 16:15:57 IST 2017
+                  SOURCE: /home/nirmalya/PlayTraining/Java/my-attendees-app-1/app/views/index.scala.html
                   HASH: c00f1c05d68754c3b12a2a3ffaafe456cbad7d39
                   MATRIX: 834->95|946->112|975->308|1003->310|1035->333|1075->335|1108->464|1140->470|1155->476|1209->509|1242->512
                   LINES: 30->5|35->5|37->11|38->12|38->12|38->12|40->17|41->18|41->18|41->18|43->20

@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/nirmalya/PlayTraining/Java/PlayTrainingLab/my-attendees-app-1/conf/routes
-// @DATE:Sat Mar 18 19:27:37 IST 2017
+// @SOURCE:/home/nirmalya/PlayTraining/Java/my-attendees-app-1/conf/routes
+// @DATE:Tue Mar 21 16:15:57 IST 2017
 
 import play.api.routing.JavaScriptReverseRoute
 import play.api.mvc.{ QueryStringBindable, PathBindable, Call, JavascriptLiteral }

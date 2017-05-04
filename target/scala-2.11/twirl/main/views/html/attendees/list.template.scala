@@ -73,8 +73,8 @@ Seq[Any](format.raw/*1.23*/("""
 object list extends list_Scope0.list
               /*
                   -- GENERATED --
-                  DATE: Sat Mar 18 19:27:38 IST 2017
-                  SOURCE: /home/nirmalya/PlayTraining/Java/PlayTrainingLab/my-attendees-app-1/app/views/attendees/list.scala.html
+                  DATE: Tue Mar 21 16:15:57 IST 2017
+                  SOURCE: /home/nirmalya/PlayTraining/Java/my-attendees-app-1/app/views/attendees/list.scala.html
                   HASH: 2a99cd86f48afdcb9ede04144380d95bee04aea7
                   MATRIX: 759->1|875->22|903->25|930->44|969->46|998->49|1146->171|1180->189|1220->191|1253->197|1313->230|1328->236|1376->263|1411->272|1436->276|1468->281|1532->315
                   LINES: 27->1|32->1|34->3|34->3|34->3|36->5|44->13|44->13|44->13|45->14|47->16|47->16|47->16|48->17|48->17|49->18|53->22
